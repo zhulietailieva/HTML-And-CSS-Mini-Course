@@ -1,0 +1,13 @@
+h1#title{
+    text-align: center;
+    font-size: 50px;
+   
+}
+article{
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+article p:first-of-type{
+font-style: italic;
+}
