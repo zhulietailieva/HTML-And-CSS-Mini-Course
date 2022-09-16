@@ -1,0 +1,14 @@
+h1{
+    color:navy;
+    size: 20px;
+    text-align: center;
+}
+section{
+    background-color: lightblue;
+    display: inline-block;
+    margin-left: 40%;
+}
+ol li{
+   
+text-decoration: underline;
+}
